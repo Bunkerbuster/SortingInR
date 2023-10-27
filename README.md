@@ -56,7 +56,7 @@ git clone https://github.com/Bunkerbuster/SortingInR.git
 ```
 
 ### Example
-Here's an example of how to use the Bubble Sort algorithm in C#:
+Here's an example of how to use the Bubble Sort algorithm in R:
 
 int[] arr = { 64, 34, 25, 12, 22, 11, 90 };
 
